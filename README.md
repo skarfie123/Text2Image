@@ -10,8 +10,13 @@ For example:
 ラーフル　パイ
 
 The above text would generate two images
+
+おはよう
+
 わたし　は　すごい　です。
+
 and
+
 ラーフル　パイ
 
 Recommended fonts for Japanese:
